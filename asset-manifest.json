@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0e7c245.css",
+    "main.js": "/static/js/main.743b3217.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/proj2.jpg": "/static/media/proj2.c45dbffca9fce77c0d7b.jpg",
+    "static/media/cv_proj.jpg": "/static/media/cv_proj.04f4ed778a634091dc1d.jpg",
+    "static/media/hero_img.svg": "/static/media/hero_img.9229146864d2300d2e69031a38f63816.svg",
+    "index.html": "/index.html",
+    "main.b0e7c245.css.map": "/static/css/main.b0e7c245.css.map",
+    "main.743b3217.js.map": "/static/js/main.743b3217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e7c245.css",
+    "static/js/main.743b3217.js"
+  ]
+}
